@@ -21,7 +21,7 @@ Welcome to Brainwave - a Modern UI/UX website developed using React.js and Tailw
 
 ## 🔗 Links
 
-- [Live Demo](URL_TO_YOUR_LIVE_DEMO)
+- [Live Demo](https://brainwave-ai-website-eight.vercel.app/)
 - [GitHub Repository](https://github.com/AmDevDeepak/BRAINWAVE_AI_WEBSITE/)
 
 ## 🚀 More
